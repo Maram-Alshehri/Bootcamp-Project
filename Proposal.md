@@ -11,7 +11,7 @@ What is the most popular smartphone?
 Which  products that got most number of reviews?
 # Data Description:
 This project is proposed to build a smartphone recommendation based on
-Kaggle dataset. Smartphone recommendation dataset contains 11 features and the
+Kaggle dataset. Smartphone recommendation dataset contains 374910 rows and 11 features.  The
 description of each feature below:
 
 • Author: name of the person who gave the rating.
@@ -31,4 +31,4 @@ description of each feature below:
 # Tools:
 Google Colab-Python (Pandans, Numpy , Matplotlip , skelrarn ,and surprise)
 # MVP Goal:
-The minimum viable product (MVP) of this project will apply collaborative filtering models and find the initial results.
+The minimum viable product (MVP) of this project will apply collaborative filtering models in a small dataset and find the initial results.
