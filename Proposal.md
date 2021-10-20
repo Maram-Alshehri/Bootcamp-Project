@@ -12,6 +12,7 @@ Which  products that got most number of reviews?
 This project is proposed to build a smartphone recommendation based on
 Kaggle dataset. Smartphone recommendation dataset contains 11 features and the
 description of each feature below:
+
 • Author: name of the person who gave the rating.
 
 • Country: country the person who gave the rating belongs to.
