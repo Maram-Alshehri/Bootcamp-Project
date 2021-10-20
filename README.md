@@ -6,3 +6,6 @@ However, numerous parameters, such as
  location, screen size, and processing speed, are critical to information retrieval on mobile
  devices. Therefore, this project is proposed to build a smartphone recommendation based on
  Kaggle dataset. 
+
+
+https://www.kaggle.com/dsrivastava2020/recommendation-system
