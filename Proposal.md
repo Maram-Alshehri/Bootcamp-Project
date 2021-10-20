@@ -17,10 +17,10 @@ description of each feature below:
 • Data: date of the rating.
 • Domain: website from which the rating was taken from.
 • Extract: rating content.
-• Language: language in which the rating was given.
+
+• Language: language in which the rating was given./
 • Product: name of the product/mobile phone for which the rating was given.
 # Tools:
-ools
 Google Colab-Python (Pandans, Numpy , Matplotlip , skelrarn ,and surprise)
 # MVP Goal:
 The minimum viable product (MVP) of this project will apply collaborative filtering models and find the initial results.
