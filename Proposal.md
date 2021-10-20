@@ -6,7 +6,8 @@ location, screen size, and processing speed, are critical to information retriev
 devices. Therefore, this project is proposed to build a Smartphone Recommendation System. 
 
 # Question:
-what is the most popular smartphone?
+What is the most popular smartphone?
+
 Which  products that got most number of reviews?
 # Data Description:
 This project is proposed to build a smartphone recommendation based on
