@@ -21,8 +21,7 @@ However, numerous parameters, such as
  
  To run the code:
  
- First you should downloud the dataset for Kaggle website "
-https://www.kaggle.com/dsrivastava2020/recommendation-system ".
+ First you should downloud the dataset for Kaggle website "https://www.kaggle.com/dsrivastava2020/recommendation-system ".
 
 Then, change the path of Recommendation System code and run it. 
   
