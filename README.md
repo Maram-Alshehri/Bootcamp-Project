@@ -4,7 +4,7 @@ The use of mobile devices in combination with the rapid growth of the internet h
   determining which data are useful to the user.
 However, numerous parameters, such as
  location, screen size, and processing speed, are critical to information retrieval on mobile
- devices. Therefore, this project shows two approches of collaborative filtering that are SVD and KNNmeans to build a smartphone recommendation based on
+ devices. Therefore, this project shows two approaches of collaborative filtering that are SVD and KNNmeans to build a smartphone recommendation based on
  Kaggle dataset.
  
  This repo contains :
